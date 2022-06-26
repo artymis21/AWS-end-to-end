@@ -1,0 +1,6 @@
+customhost = "student-dbs.c5qtfakpsxnc.ap-south-1.rds.amazonaws.com"
+customuser = "tharun"
+custompass = "rightright"
+customdb = "student-dbs"
+custombucket = "addstudents"
+customregion = "ap-south-1"
